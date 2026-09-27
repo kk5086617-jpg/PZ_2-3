@@ -24,6 +24,7 @@
         <Button Content="Задание 5" HorizontalAlignment="Left" Margin="710,0,0,0" Grid.Row="1" VerticalAlignment="Center" Height="60" Width="80" Background="Honeydew" Click="Button_Click_4" />
         <Button x:Name="Coc" Content="" HorizontalAlignment="Left" Margin="778,350,0,0" Grid.Row="1" VerticalAlignment="Top" Height="14" Width="12" Click="Coc_Click"/>
         <Image x:Name="cat" HorizontalAlignment="Left" Height="144" Margin="613,222,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140" Source="/Снимок экрана 2025-10-07 190051.png" Visibility="Hidden"/>
+        <Image Margin="242,0,242,217" Source="/Image1.png" Stretch="Fill" Grid.Row="1"/>
 
     </Grid>
 </Window>
